@@ -16,7 +16,7 @@ for me as a developer which allows to tweak anything from design to adding analy
 1. Install Ruby via Home Brew - Since permission would be crop up in latest mac versions
 2. Install Bundler to manage dependencies for any gem
 3. `$ jekyll new .` - to create a new jekyll site in the current folder
-4. `$ jekyll new **mysite**` to create in the **mysite** folder
+4. `$ jekyll new mysite` to create in the **mysite** folder
 5. `$ jekyll serve` to test the site in the browser - ./site - will have the static site contents
 
 **Troubleshooting**
