@@ -1,5 +1,7 @@
 # Rajmohan Kathiresan Blog
 
+[Tarvis CI]: https://travis-ci.org/RajmohanKathiresan/rajkathiresan_blog.svg?branch=master "Travis"
+
 [Rajmohan Kathiresan - Blog](https://rajkathiresan.wordpress.com/) is a Jekyll based fully functional blog hosted to share my developer experience. Export of a wordpress blog created initially.
 Jekyll is by far the wonderful, magical tool have ever seen.
 
