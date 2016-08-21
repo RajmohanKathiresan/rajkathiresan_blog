@@ -45,3 +45,6 @@ favicon_img_path: "assets/favicon.png"
 # Build settings
 markdown: kramdown
 theme: minima
+
+exclude: [vendor]
+sudo: false
