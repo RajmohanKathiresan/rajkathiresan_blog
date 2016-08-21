@@ -13,16 +13,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Rajmohan - Blog
+name : Rajmohan Kathiresan
+email: rajmohankathiresan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Developing mobile application since its initial days of Mobile revolution 
+  for all existed/existing/surviving platform such as iOS, Android (using Xamarin), Windows Phone 
+  using various technology and framework.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://rajkm.xyz" # the base hostname & protocol for your site
+twitter_username: rajmohankathire
+github_username:  rajmohankathiresan
+linkedin_username: rajmohankathiresan
+stack_of_username: 1423562/rajmohan-kathiresan
+aboutme: rajmohankathiresan
+blog_url: "/blog"
+
+#Front Page
+front_excerpt: "Software Developer, Techie, Fact Enthusiast"
+
+avatar: yes
+avatar_img_path: "https://avatars0.githubusercontent.com/u/2870046"
+
+front_img: yes
+front_img_path: "assets/coverphoto.jpg"
+
+favicon_img: yes
+favicon_img_path: "assets/favicon.png"
+#favicon_img_path: "https://external.url/favicon.ico"
 
 # Build settings
 markdown: kramdown
