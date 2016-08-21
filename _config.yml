@@ -47,4 +47,3 @@ markdown: kramdown
 theme: minima
 
 exclude: [vendor]
-sudo: false
